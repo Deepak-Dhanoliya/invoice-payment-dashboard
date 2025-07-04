@@ -80,5 +80,12 @@ If you have questions, feedback, or want to collaborate:
 
 ---
 
+## 🙏 Acknowledgements
+
+🧠 This dashboard was inspired by a tutorial by [Chandeep Chhabra (Goodly)](https://www.youtube.com/@GoodlyChandeep).  
+Thanks for sharing valuable knowledge with the data community!
+
+---
+
 > ⚠️ Note: This dashboard is designed for learning and demonstration. Customize it to fit your company or client’s real billing structure.
 

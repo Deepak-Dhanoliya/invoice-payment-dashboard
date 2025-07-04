@@ -55,7 +55,7 @@ This dashboard isn’t flashy — it’s clean, fast, and **optimized for clarit
 
 ## 📁 Files Included
 
-- `Dataset.xlsx` – Dashboard Data  
+- `Dataset` – Dashboard Data  
 - `Invoice and Payment Dashboard PowerBI.pbix` file 
 - `README.md` – You're reading it ✅  
 
